@@ -150,7 +150,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(83, 13);
             this.label2.TabIndex = 7;
-            this.label2.Text = "Seconds/Frame";
+            this.label2.Text = "Sim. Seconds/Real";
             // 
             // label3
             // 
@@ -188,7 +188,7 @@
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
-            this.Text = "John Choi 11129990";
+            this.Text = "Planets";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.menuStrip1.ResumeLayout(false);
