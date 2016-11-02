@@ -8,7 +8,8 @@ of each body each frame. Planets and stars will move but, as their name implies,
 masses will not. 
 
 	Planets are relatively small, mass-wise. Stars are medium-sized and immovable masses 
-are large. The "halos" around the stars and immovable masses are for visuals, only. They 
+are large. The mass of planets is based on Earth's and the mass of stars is based on the sun's.
+The "halos" around the stars and immovable masses are for visuals, only. They 
 do not signify anything important in the simulation. Planets and stars will move around the 
 screen and bounce off the sides of image instead of going beyond them. This is to prevent 
 issues with them flying far off into the distance and causing overflow errors. Also, it's 
