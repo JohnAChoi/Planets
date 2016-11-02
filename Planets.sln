@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Planets", "Planets\Planets.csproj", "{BFC5DE01-70C6-4F42-88FA-6ABC80B2F68F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFC5DE01-70C6-4F42-88FA-6ABC80B2F68F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC5DE01-70C6-4F42-88FA-6ABC80B2F68F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC5DE01-70C6-4F42-88FA-6ABC80B2F68F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC5DE01-70C6-4F42-88FA-6ABC80B2F68F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
